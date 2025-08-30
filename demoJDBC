@@ -17,7 +17,7 @@ public class Main {
 
         String url = "jdbc:postgresql://localhost:5432/demo";
         String uname = "postgres";
-        String pword = "992199";
+        String pword = "******";
         String sql = "select sname from student where sid='1'";
 
         //Class.forName("org.postgresql.Driver");
