@@ -17,7 +17,7 @@ public class Main {
 
         String url = "jdbc:postgresql://localhost:5432/demo";
         String uname = "postgres";
-        String pword = "992199";
+        String pword = "******";
         String sql = "insert into student values(4, 'Coco', 20)";
 
         //For Delete : Delete from Student where sid=4;
